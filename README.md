@@ -216,9 +216,6 @@ Add all the same environment variables from `.env.local` to your Vercel project 
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -227,14 +224,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Database powered by [Supabase](https://supabase.com/)
 - Charts by [Recharts](https://recharts.org/)
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](../../issues) page
-2. Create a new issue with detailed information
-3. Include error messages and steps to reproduce
-
----
 
 **Note**: This tool provides market analysis based on available data and algorithms. Always conduct your own research before making publishing decisions.
